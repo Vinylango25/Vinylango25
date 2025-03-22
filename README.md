@@ -14,8 +14,7 @@
 📫 **Email:** vincentl@aims.ac.za  
 
 ## 💻 Tech Stack  
-![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python)  
-![R](https://img.shields.io/badge/R-lightgrey?style=flat&logo=r)  
+![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python)  ![R](https://img.shields.io/badge/R-lightgrey?style=flat&logo=r)  
 ![SQL](https://img.shields.io/badge/SQL-orange?style=flat&logo=postgresql)  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=flat&logo=tensorflow)  
 ![PyTorch](https://img.shields.io/badge/PyTorch-red?style=flat&logo=pytorch)  
