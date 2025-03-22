@@ -14,6 +14,31 @@
 📫 **Email:** vincentl@aims.ac.za  
 
 ## 💻 Tech Stack  
+## 💻 Tech Stack  
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python" height="30">
+  <img src="https://img.shields.io/badge/R-lightgrey?style=flat&logo=r" height="30">
+  <img src="https://img.shields.io/badge/SQL-orange?style=flat&logo=postgresql" height="30">
+  <img src="https://img.shields.io/badge/TensorFlow-orange?style=flat&logo=tensorflow" height="30">
+  <img src="https://img.shields.io/badge/PyTorch-red?style=flat&logo=pytorch" height="30">
+  <img src="https://img.shields.io/badge/Scikit--Learn-yellow?style=flat&logo=scikit-learn" height="30">
+  <img src="https://img.shields.io/badge/XGBoost-orange?style=flat&logo=xgboost" height="30">
+  <img src="https://img.shields.io/badge/Django-green?style=flat&logo=django" height="30">
+  <img src="https://img.shields.io/badge/Flask-black?style=flat&logo=flask" height="30">
+  <img src="https://img.shields.io/badge/Docker-blue?style=flat&logo=docker" height="30">
+  <img src="https://img.shields.io/badge/Kubernetes-darkblue?style=flat&logo=kubernetes" height="30">
+  <img src="https://img.shields.io/badge/AWS-yellow?style=flat&logo=amazon-aws" height="30">
+  <img src="https://img.shields.io/badge/Gurobi-red?style=flat" height="30">
+  <img src="https://img.shields.io/badge/Power%20BI-yellow?style=flat&logo=power-bi" height="30">
+  <img src="https://img.shields.io/badge/Tableau-blueviolet?style=flat&logo=tableau" height="30">
+  <img src="https://img.shields.io/badge/Excel-green?style=flat&logo=microsoft-excel" height="30">
+  <img src="https://img.shields.io/badge/Matlab-orange?style=flat&logo=mathworks" height="30">
+  <img src="https://img.shields.io/badge/SPSS-lightblue?style=flat" height="30">
+  <img src="https://img.shields.io/badge/Risk%20Analytics-blue?style=flat" height="30">
+  <img src="https://img.shields.io/badge/Fraud%20Detection-red?style=flat" height="30">
+</p>
+
 ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python)  ![R](https://img.shields.io/badge/R-lightgrey?style=flat&logo=r)  
 ![SQL](https://img.shields.io/badge/SQL-orange?style=flat&logo=postgresql)  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=flat&logo=tensorflow)  
