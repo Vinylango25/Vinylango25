@@ -11,7 +11,7 @@
 ## 🌍 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kipkemoi-vincent-19307a94/)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Vinylango25?tab=repositories)   
-📫 **Email:** vincentl@aims.ac.za  
+📫 **Email:** vincentl@aims.ac.za/vinylango90@gmail.com
 
 ## 💻 Tech Stack  
 <p align="left">
