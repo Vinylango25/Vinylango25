@@ -4,27 +4,14 @@
 💡 Passionate about transforming raw data into actionable insights.  
 🚀 Specializing in **fraud detection, credit scoring, risk modeling, econometrics, and predictive analytics**.  
 👯 Open to collaborations in **fintech, AI research, and data-driven solutions**.  
-🏆 Actively participating in **Zindi ML Competitions**.  
-📍 Based in **Westlands, Nairobi, Kenya**  
+📍 Based in **Nairobi, Kenya**  
 
 ---
 
 ## 🌍 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kipkemoi-vincent-19307a94/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Vinylango25?tab=repositories)  
-[![Zindi](https://img.shields.io/badge/Zindi-orange?style=flat&logo=zindi)](https://zindi.africa/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Vinylango25?tab=repositories)   
 📫 **Email:** vincentl@aims.ac.za  
-
----
-
-## 🏆 Zindi Competitions  
-🏅 **[Competition Name 1](https://zindi.africa/competitions/your-competition-link)** - Rank #X  
-🏅 **[Competition Name 2](https://zindi.africa/competitions/your-competition-link)** - Rank #X  
-🏅 **[Competition Name 3](https://zindi.africa/competitions/your-competition-link)** - Rank #X  
-
-(Replace with actual competition names and rankings)  
-
----
 
 ## 💻 Tech Stack  
 ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python)  
@@ -57,7 +44,7 @@
 
 ---
 
-## 📊 Merged GitHub Stats  
+## 📊 GitHub Stats  
 
 🔥 **Total Commits:** `X` (Vinylango + Vinylango25)  
 🚀 **Pull Requests:** `X` (Vinylango + Vinylango25)  
