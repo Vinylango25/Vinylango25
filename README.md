@@ -1,4 +1,4 @@
-# 💫 Hi there! 👋 I'm Vincent Langat  
+# 💫 Hi there! 👋 I'm Kipkemoi Vincent  
 
 🔭 **Data Scientist | ML/AI Engineer | Data Analyst | Optimization Specialist**  
 💡 Passionate about transforming raw data into actionable insights.  
