@@ -2,7 +2,7 @@
 
 🔭 **Data Analyst |Data Scientist | ML/AI Engineer | Credit Risk Analyst**  
 💡 Passionate about transforming raw data into actionable insights.  
-🚀 Specializing in **fraud detection, credit scoring, risk modeling, econometrics, and predictive analytics**.  
+🚀 Specializing in **Data Analytics, Data Science, ML, Anomaly Detection, fraud detection, credit scoring, risk modeling,  and predictive analytics**.  
 👯 Open to collaborations in **fintech, AI research, and data-driven solutions**.  
 📍 Based in **Nairobi, Kenya**  
 
