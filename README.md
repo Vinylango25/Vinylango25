@@ -1,6 +1,6 @@
 # 💫 Hi there! 👋 I'm Kipkemoi Vincent  
 
-🔭 **Data Scientist | ML/AI Engineer | Data Analyst | Optimization Specialist**  
+🔭 **Data Analyst |Data Scientist | ML/AI Engineer | Credit Risk Analyst**  
 💡 Passionate about transforming raw data into actionable insights.  
 🚀 Specializing in **fraud detection, credit scoring, risk modeling, econometrics, and predictive analytics**.  
 👯 Open to collaborations in **fintech, AI research, and data-driven solutions**.  
