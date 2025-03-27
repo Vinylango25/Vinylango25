@@ -49,9 +49,6 @@
   <img src="https://img.shields.io/badge/LATEX-blue?style=flat&logo=latex" height="30">
   <img src="https://img.shields.io/badge/FLAML-orange?style=flat" height="30">
   <img src="https://img.shields.io/badge/Looker-purple?style=flat&logo=looker" height="30">
-  <img src="https://img.shields.io/badge/Risk%20Analytics-blue?style=flat" height="30">
-  <img src="https://img.shields.io/badge/Credit%20Scoring-green?style=flat" height="30">
-  <img src="https://img.shields.io/badge/Fraud%20Detection-red?style=flat" height="30">
 </p>
 
 
