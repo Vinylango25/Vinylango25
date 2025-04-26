@@ -14,9 +14,10 @@
 |--------|-------------|------------|
 | [📊 Sales Time Series Analysis](https://github.com/Vinylango25/Sales_Time_Series_Analysis) | Analyzed sales data to identify trends and forecast future sales using time series models. | Python, Pandas, Matplotlib |
 | [💻 Machine Learning Loan Application Web App](https://github.com/Vinylango25/Machine_Learning_Loan_Application_Web_App) | Built a web app to predict loan approvals using ML algorithms. | Python, Flask, Scikit-learn |
-| [🔍 Production Ready Anomaly Detection System](https://github.com/Vinylango25/Production_ready_anomaly_detection_system) | Created a scalable anomaly detection system for real-time use. | PyOD, MLflow, Docker |
+| [🚀 Active Learning API (Django + CatBoost)](https://github.com/Vinylango25/active-learning-backend) | Django REST API for querying, labeling, and training an Active Learning model using CatBoost. | Django, CatBoost, REST API, SQLite |
+| [🔍 Production Ready Anomaly Detection System](https://github.com/Vinylango25/Production_ready_anomaly_detection_streamlit) | Created a scalable anomaly detection system for real-time use. | PyOD, MLflow, Docker |
 | [📈 Credit Risk Modeling](https://github.com/Vinylango25/Credit_Risk_Modeling) | Developed credit scoring models to assess loan default risks. | XGBoost, SHAP, Scikit-learn |
-| [🌐 COVID-19 Data Analysis](https://github.com/Vinylango25/COVID19_Data_Analysis) | Exploratory data analysis on global COVID-19 trends. | Python, Plotly, Seaborn |
+| [🌐 COVID-19 Detection](https://github.com/Vinylango25/Covid-19-Detection-Deep-Learning) | Exploratory data analysis on global COVID-19 trends. | Python, Plotly, Seaborn |
 
 ---
 
