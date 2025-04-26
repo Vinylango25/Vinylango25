@@ -100,20 +100,6 @@
 
 
 
-## 📊 GitHub Stats  
-
-### **Vinylango25 Stats**  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Vinylango25&theme=dark&hide_border=false)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vinylango25&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinylango25&theme=dark&layout=compact)  
-
-### **Vinylango Stats**  
-![GitHub Streak](https://streak-stats.demolab.com/?user=vinylango&theme=dark&hide_border=false)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinylango&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinylango&theme=dark&layout=compact)  
-
----
-
 ## 📜 Random Dev Quote  
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)  
 
