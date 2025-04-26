@@ -4,7 +4,13 @@
 💡 Passionate about transforming raw data into actionable insights.  
 🚀 Specializing in **Data Analytics, Business Intelligence, Data Science, ML, Anomaly Detection, Fraud Detection, Credit Scoring, Risk Modeling,  and Predictive Analytics**.  
 👯 Open to collaborations in **fintech, AI research, and data-driven solutions**.  
-📍 Based in **Nairobi, Kenya**  
+📍 Based in **Nairobi, Kenya** and open to opportunities   **Worldwide**   
+
+---
+## 🌍 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kipkemoi-vincent-19307a94/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Vinylango25?tab=repositories)   
+📫 **Email:** vincentl@aims.ac.za/vinylango90@gmail.com
 
 ---
 
