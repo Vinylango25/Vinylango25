@@ -63,6 +63,12 @@
   <img src="https://img.shields.io/badge/Looker-purple?style=flat&logo=looker" height="30">
 </p>
 
+## 🏆 GitHub Trophies  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Vinylango25&theme=dracula)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vinylango&theme=dracula) 
+
+---
+
 
 
 ## 📊 GitHub Stats  
@@ -76,12 +82,6 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=vinylango&theme=dark&hide_border=false)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinylango&show_icons=true&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinylango&theme=dark&layout=compact)  
-
----
-
-## 🏆 GitHub Trophies  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Vinylango25&theme=dracula)  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vinylango&theme=dracula)  
 
 ---
 
