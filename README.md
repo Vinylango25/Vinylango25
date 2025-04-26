@@ -67,8 +67,8 @@
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Vinylango25&theme=dracula&width=800)  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vinylango&theme=dracula&width=800)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Vinylango25&theme=dracula&width=1200)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vinylango&theme=dracula&width=1200)
 
 ---
 
