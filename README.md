@@ -12,6 +12,7 @@
 
 | Project | Description | Tools Used |
 |--------|-------------|------------|
+| [📉 Customer Churn Analysis and Prediction](https://github.com/Vinylango25/Customer_Churn_Analysis_And_Prediction) |Developed a system to analyze customer churn using survival analysis techniques. Implemented Kaplan-Meier curves and Cox Proportional Hazards models to understand churn over time and estimate customer lifetime value. Built a Random Forest classifier to predict churn, achieving an F1 score of 0.62 and ROC-AUC of 0.85. Deployed a Flask web app featuring SHAP visualizations, survival/hazard curves, and churn probability gauges for individual customer insights. | Python, Flask, Scikit-learn, SHAP, Cox Proportional Hazards Model, Survival Analysis |
 | [📊 Sales Time Series Analysis](https://github.com/Vinylango25/Sales_Time_Series_Analysis) | Analyzed sales data to identify trends and forecast future sales using time series models. | Python, Pandas, Matplotlib |
 | [🤖 Lending Automation - ML for Credit Scoring](https://github.com/Vinylango25/Credit-Scoring-Lending-automation) | Evaluated how Random Forest, XGBoost, and LGBM can automate lending decisions, reduce loan processing time and operational costs, and scale lending operations efficiently. | Python, Scikit-learn, RF, XGBoost, LightGBM |
 | [💻 Machine Learning Loan Application Web App](https://github.com/Vinylango25/Machine_Learning_Loan_Application_Web_App) | Built a web app to predict loan approvals using ML algorithms. | Python, Flask, Scikit-learn |
