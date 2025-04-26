@@ -65,6 +65,13 @@
   <img src="https://img.shields.io/badge/Looker-purple?style=flat&logo=looker" height="30">
 </p>
 
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Vinylango25&theme=dracula&width=800)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vinylango&theme=dracula&width=800)
+
+---
+
 ## 🏆 GitHub Trophies  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Vinylango25&theme=dracula)  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vinylango&theme=dracula) 
