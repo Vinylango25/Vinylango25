@@ -13,11 +13,12 @@
 | Project | Description | Tools Used |
 |--------|-------------|------------|
 | [📊 Sales Time Series Analysis](https://github.com/Vinylango25/Sales_Time_Series_Analysis) | Analyzed sales data to identify trends and forecast future sales using time series models. | Python, Pandas, Matplotlib |
+| [🤖 Lending Automation - ML for Credit Scoring](https://github.com/Vinylango25/Credit-Scoring-Lending-automation) | Evaluated how Random Forest, XGBoost, and LGBM can automate lending decisions, reduce loan processing time and operational costs, and scale lending operations efficiently. | Python, Scikit-learn, RF, XGBoost, LightGBM |
 | [💻 Machine Learning Loan Application Web App](https://github.com/Vinylango25/Machine_Learning_Loan_Application_Web_App) | Built a web app to predict loan approvals using ML algorithms. | Python, Flask, Scikit-learn |
 | [🚀 Active Learning API (Django + CatBoost)](https://github.com/Vinylango25/active-learning-backend) | Django REST API for querying, labeling, and training an Active Learning model using CatBoost. | Django, CatBoost, REST API, SQLite |
 | [🔍 Production Ready Anomaly Detection System](https://github.com/Vinylango25/Production_ready_anomaly_detection_streamlit) | Created a scalable anomaly detection system for real-time use. | PyOD, MLflow, Docker |
-| [📈 Credit Risk Modeling](https://github.com/Vinylango25/Credit_Risk_Modeling) | Developed credit scoring models to assess loan default risks. | XGBoost, SHAP, Scikit-learn |
-| [🌐 COVID-19 Detection](https://github.com/Vinylango25/Covid-19-Detection-Deep-Learning) | Exploratory data analysis on global COVID-19 trends. | Python, Plotly, Seaborn |
+| [🩺 COVID-19 Detection Using CT Scans](https://github.com/Vinylango25/Covid-19-Detection-Deep-Learning) | Used CNN models (CustomCNN, MobileNetV2, DenseNet169, ResNet50) on real hospital CT scan data from Brazil to detect COVID-19, achieving up to 99% accuracy with model ensembling. | Python, TensorFlow, Keras, CNNs |
+| [🧠 Brain Tumor Detection Using Deep Learning](https://github.com/Vinylango25/Brain-Tumor-Detection-Using-Deep-Learning) | Developed CNN models (CustomCNN, MobileNetV2, DenseNet169, ResNet50) to detect brain tumors from MRI scans, achieving 92–99.8% accuracy with ensemble learning and AutoML optimization. | Python, TensorFlow, Keras, FLAML |
 
 ---
 
