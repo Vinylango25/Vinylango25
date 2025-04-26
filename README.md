@@ -71,6 +71,33 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<table>
+<tr>
+<td align="center">
+  
+### **Vinylango25 Stats**  
+ 
+<img src="https://streak-stats.demolab.com/?user=Vinylango25&theme=dark&hide_border=false" alt="GitHub Streak" />  
+<img src="https://github-readme-stats.vercel.app/api?username=Vinylango25&show_icons=true&theme=dark" alt="GitHub Stats" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinylango25&theme=dark&layout=compact" alt="Top Languages" />
+
+</td>
+
+<td align="center">
+
+### **Vinylango Stats**  
+
+<img src="https://streak-stats.demolab.com/?user=vinylango&theme=dark&hide_border=false" alt="GitHub Streak" />  
+<img src="https://github-readme-stats.vercel.app/api?username=vinylango&show_icons=true&theme=dark" alt="GitHub Stats" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinylango&theme=dark&layout=compact" alt="Top Languages" />
+
+</td>
+</tr>
+</table>
+
+
 
 
 ## 📊 GitHub Stats  
