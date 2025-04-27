@@ -1,5 +1,5 @@
 # 💫 About Me
-####  Hi there! 👋 I'm Kipkemoi Vincent  
+### 💫 Hi there! 👋 I'm Kipkemoi Vincent  
 
 I am a passionate Data Scientist, ML/AI Engineer, and Data Analyst with expertise in transforming raw data into actionable insights.  
 With experience across fintech, environmental science, healthcare, and agri-tech, I build machine learning models, predictive systems, and analytical solutions that drive growth and optimize decision-making.
