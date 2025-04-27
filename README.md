@@ -2,7 +2,8 @@
 ### 💫 Hi there! 👋 I'm Kipkemoi Vincent  
 
 I am a passionate Data Scientist, ML/AI Engineer, and Data Analyst with expertise in transforming raw data into actionable insights.  
-With experience across fintech, environmental science, healthcare, and agri-tech, I build machine learning models, predictive systems, and analytical solutions that drive growth and optimize decision-making.
+With experience across fintech, environmental science, healthcare, and agri-tech, I build machine learning models, predictive systems, 
+and analytical solutions that drive growth and optimize decision-making.
 
 Currently based in **Nairobi, Kenya**, open to opportunities **worldwide**.
 
@@ -11,23 +12,11 @@ Currently based in **Nairobi, Kenya**, open to opportunities **worldwide**.
 # 📋 Professional Summary
 
 - 5+ years experience delivering Data Science and ML solutions across sectors (Fintech, Climate, Healthcare).
-- Skilled in anomaly detection, credit scoring, air quality forecasting, and scalable ML model deployment.
-- Proficient in Python, R, SQL, Scikit-learn, TensorFlow, XGBoost, LightGBM, and AWS.
-- Experienced with MLOps workflows: Docker, Kubernetes, MLflow, FastAPI, and CI/CD pipelines.
+- Skilled in data analytics, predictive analytics,credit risk analysis, anomaly & fraud detection, credit scoring,
+ time series forecasting, and scalable ML model deployment.
+- Proficient in Python, R, SQL, Scikit-learn, CNN, OpenCV, TensorFlow, RF, LSTM,Catboost, XGBoost, LightGBM,PyOD models and AWS.
+- Experienced with MLOps workflows: streamlit, Docker, Kubernetes, MLflow, FastAPI, and CI/CD pipelines.
 - Committed to leveraging advanced analytics for risk minimization, business growth, and social impact.
-
----
-
-
-
-
-# 💫 Hi there! 👋 I'm Kipkemoi Vincent  
-
-🔭 **Data Analyst | Credit Risk Analyst | Data Scientist | ML/AI Engineer**  
-💡 Passionate about transforming raw data into actionable insights.  
-🚀 Specializing in **Data Analytics, Business Intelligence, Data Science, ML, Anomaly Detection, Fraud Detection, Credit Scoring, Risk Modeling,  and Predictive Analytics**.  
-👯 Open to collaborations in **fintech, AI research, and data-driven solutions**.  
-📍 Based in **Nairobi, Kenya** and open to opportunities   **Worldwide**   
 
 ---
 ## 🌍 Connect with Me  
