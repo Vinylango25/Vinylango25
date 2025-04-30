@@ -19,7 +19,7 @@ Currently based in **Nairobi, Kenya**, open to opportunities **worldwide**.
 
 ---
 ## 🌍 Connect with Me  
-<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" />[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kipkemoi-vincent-19307a94/)   
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" /> [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kipkemoi-vincent-19307a94/)   
 📫 **Email:** vincentl@aims.ac.za/vinylango90@gmail.com
 
 ---
