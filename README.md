@@ -17,6 +17,7 @@ I am a passionate Data Scientist, ML/AI Engineer & Data Analyst with expertise i
  time series forecasting, and scalable ML model deployment.
 - Proficient in Python, R, SQL, Scikit-learn, CNN, OpenCV, TensorFlow, RF, LSTM,Catboost, XGBoost, LightGBM,PyOD models and AWS.
 - Experienced with MLOps workflows: streamlit, Docker, Kubernetes, MLflow, FastAPI, and CI/CD pipelines.
+- LLMs & GenAI Applications: Experienced in deploying transformer-based LLMs (GPT, Mistral, LLaMA) via Hugging Face, OpenAI, and OpenRouter APIs. Built RAG pipelines using LangChain, Chroma, and FAISS. Proficient in prompt engineering, embeddings, and semantic search.
 - Committed to leveraging advanced analytics for risk minimization, business growth, and social impact.
 
 ## 🌍 Connect with Me  
