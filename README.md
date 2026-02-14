@@ -91,7 +91,6 @@ I am a seasoned Data Scientist with over 5 years of experience in delivering dat
 </p>
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Vinylango30&theme=dracula&width=1200)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Vinylango25&theme=dracula&width=1200)  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vinylango&theme=dracula&width=1200)
 
