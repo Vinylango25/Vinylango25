@@ -106,9 +106,9 @@ I am a seasoned Data Scientist with over 5 years of experience in delivering dat
   
 ### **Vinylango25 Stats**  
  
-<img src="https://streak-stats.demolab.com/?user=Vinylango25&theme=dark&hide_border=false" alt="GitHub Streak" />  
-<img src="https://github-readme-stats.vercel.app/api?username=Vinylango25&show_icons=true&theme=dark" alt="GitHub Stats" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinylango25&theme=dark&layout=compact" alt="Top Languages" />
+<img src="https://streak-stats.demolab.com/?user=Vinylango30&theme=dark&hide_border=false" alt="GitHub Streak" />  
+<img src="https://github-readme-stats.vercel.app/api?username=Vinylango30&show_icons=true&theme=dark" alt="GitHub Stats" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinylango30&theme=dark&layout=compact" alt="Top Languages" />
 
 </td>
 
