@@ -25,7 +25,7 @@ I am a seasoned Data Scientist/ AI Engineer with over 5 years of experience in d
 - Committed to leveraging advanced analytics for risk minimization, business growth, and social impact.
 
 ## 🌍 Connect with Me  
-<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" /> **Linkedln:** [kipkemoi-vincent-19307a94/](https://www.linkedin.com/in/kipkemoi-vincent-19307a94/)  
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" /> **Linkedln:** [Vincent-langat-19307a94/](https://www.linkedin.com/in/vincent-langat-19307a94/)  
 🌐 **Website:** [vinylango25.github.io](https://vinylango25.github.io/)<br>
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)[github.com/Vinylango25](https://github.com/Vinylango25?tab=repositories)<br>
  📫 **Email:** langatvincent.ds@gmail.com
