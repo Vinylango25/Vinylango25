@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/vincent-langat-19307a94/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://vinylango25.github.io/">
+  <a href="https://vincent-portfolio-seven-dun.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://github.com/Vinylango25">
@@ -104,7 +104,6 @@ Currently based in **Nairobi, Kenya** · Open to opportunities **worldwide** (re
 | Project | Description | Links |
 |---------|-------------|-------|
 | **📡 ChurnPulseNet Analytics** | Full-stack Kenyan broadband customer intelligence — 500K subscribers, 7 ISPs. Churn prediction (Random Forest, Cox survival, SHAP), ARIMA/XGBoost/LSTM forecasting, RFM segmentation, cohort analysis, A/B experiments, global provider filter | [🌐 Live](https://churnpulsenet.vercel.app) · [GitHub](https://github.com/Vinylango25/ChurnPulseNet-Analytics) |
-| **🎯 ARB Scanner KE** | Real-time sports arbitrage detection across 5 Kenyan bookmakers. Fuzzy matching, 93 market types, guaranteed-profit stake calculations, WhatsApp/email alerts | [🌐 Live](https://dashboard-taupe-gamma-73.vercel.app) · [GitHub](https://github.com/Vinylango25/arb) |
 | **💳 CreditIQ** | Credit risk intelligence platform with ML credit scoring, fraud detection, and portfolio analytics | [🌐 Live](https://browser-psi-opal.vercel.app) |
 | **🌿 AirIQ** | Real-time air quality intelligence for all 17 Nairobi subcounties. Spatial ML interpolation, WHO/EPA/EU/NEMA compliance, Gemini AI health advisor, healthcare cross-analysis | [🌐 Live](https://airiq-ivory.vercel.app) |
 | **🤖 AI QA Automation** | LLM-powered platform for automated contact centre quality assurance and coaching insights | [📸 Screenshot](https://drive.google.com/file/d/1kioGaX-1AAcprruTd-qDRKVuupkZdRac/view?usp=sharing) |
