@@ -94,7 +94,6 @@ Currently based in **Nairobi, Kenya** · Open to opportunities **worldwide** (re
 | 📡 **Telecommunications** | Churn prediction, CLV modeling, RFM segmentation, survival analysis, A/B retention experiments (500K subscribers) |
 | 🏥 **Healthcare** | COVID-19 CT scan detection, brain tumor MRI classification, healthcare accessibility GIS mapping |
 | 🌾 **Agri-tech** | IoT sensor data processing, predictive analytics, burn stove usage pattern analysis |
-| 🎯 **Sports Analytics** | Real-time arbitrage detection, odds scraping, probabilistic pricing across 5 Kenyan bookmakers |
 | 🏢 **Contact Centre / CX** | AI QA automation, IVR intent classification, customer experience analytics |
 
 ---
